@@ -3,4 +3,3 @@
 
   [plugins.inputs]
   cloudName = "cynthia-teeters"
-  deliveryType = "upload"
